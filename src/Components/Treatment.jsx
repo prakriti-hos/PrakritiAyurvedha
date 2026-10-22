@@ -45,10 +45,10 @@ export default function Treatment() {
                 Personalized Ayurvedic care for keloids, scars and various
                 skin-related concerns.
               </p>
-
+{/* 
               <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
                 Learn More →
-              </button>
+              </button> */}
             </div>
 
             {/* Acne & Pigmentation */}
@@ -66,9 +66,9 @@ export default function Treatment() {
                 facial skin concerns.
               </p>
 
-              <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
+              {/* <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
                 Learn More →
-              </button>
+              </button> */}
             </div>
 
             {/* Joint Pain */}
@@ -86,9 +86,9 @@ export default function Treatment() {
                 musculoskeletal concerns.
               </p>
 
-              <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
+              {/* <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
                 Learn More →
-              </button>
+              </button> */}
             </div>
 
             {/* Liver & Digestive */}
@@ -106,9 +106,9 @@ export default function Treatment() {
                 metabolic health concerns.
               </p>
 
-              <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
+              {/* <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
                 Learn More →
-              </button>
+              </button> */}
             </div>
 
             {/* Hair & Scalp */}
@@ -126,9 +126,9 @@ export default function Treatment() {
                 wellness concerns.
               </p>
 
-              <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
+              {/* <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
                 Learn More →
-              </button>
+              </button> */}
             </div>
 
             {/* Respiratory */}
@@ -146,17 +146,25 @@ export default function Treatment() {
                 related concerns.
               </p>
 
-              <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
+              {/* <button className="mt-6 font-semibold text-green-700 transition hover:text-green-900">
                 Learn More →
-              </button>
+              </button> */}
             </div>
           </div>
 
           {/* View All Button */}
           <div className="mt-12 text-center">
-            <button className="rounded-xl border-2 border-green-700 px-7 py-3.5 text-base font-semibold text-green-700 transition-all duration-300 hover:-translate-y-1 hover:bg-green-700 hover:text-white hover:shadow-lg">
-              View All Areas of Care
-            </button>
+           
+              <div className="mt-10 flex justify-center">
+            <a
+              href="https://www.instagram.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-xl bg-green-700 px-7 py-3 text-base font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-green-800 hover:shadow-lg"
+            >
+             View All Areas of Care
+            </a>
+          </div>
           </div>
         </div>
       </section>

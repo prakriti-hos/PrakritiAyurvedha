@@ -45,7 +45,7 @@ export default function Contact() {
                 href="tel:+919876543210"
                 className="text-base text-gray-600 transition-colors duration-300 hover:text-green-700 sm:text-lg"
               >
-                <p>Mob : 9958711202</p>
+                <p>Mob : 92666 88941</p>
               </a>
             </div>
 
