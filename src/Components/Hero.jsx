@@ -32,7 +32,7 @@ export default function Hero() {
               </p>{" "}
               <address className="not-italic leading-7 text-gray-600">
                 {" "}
-                Prakriti homeo wellness Dayanand Nagar master colony Budhana
+                Prakriti Ayurveda Dayanand Nagar master colony Budhana
                 Muzaffarnagar Uttar Pradesh 251309{" "}
               </address>{" "}
             </div>
@@ -47,7 +47,7 @@ export default function Hero() {
             <div className="mt-10 flex flex-wrap justify-center gap-8 md:justify-start">
               <div>
                 <h3 className="text-2xl font-bold text-green-800 sm:text-3xl">
-                  10+
+                  32+
                 </h3>
                 <p className="text-sm text-gray-600 sm:text-base">
                   Years Experience
@@ -56,7 +56,7 @@ export default function Hero() {
 
               <div>
                 <h3 className="text-2xl font-bold text-green-800 sm:text-3xl">
-                  5000+
+                  1000+
                 </h3>
                 <p className="text-sm text-gray-600 sm:text-base">
                   Happy Patients
@@ -64,12 +64,12 @@ export default function Hero() {
               </div>
 
               <div>
-                <h3 className="text-2xl font-bold text-green-800 sm:text-3xl">
-                  25+
+                {/* <h3 className="text-2xl font-bold text-green-800 sm:text-3xl">
+                  3
                 </h3>
                 <p className="text-sm text-gray-600 sm:text-base">
                   Expert Doctors
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
