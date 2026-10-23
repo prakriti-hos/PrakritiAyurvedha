@@ -54,7 +54,7 @@ export default function Contact() {
               <p className="mb-2 text-lg font-bold text-green-800">Address</p>
 
               <address className="not-italic text-base leading-7 text-gray-600">
-                Prakriti Homeo Ayurveda Clinic
+                Prakriti  Ayurveda Clinic
                 <br />
                 Dayanand Nagar, Master Colony
                 <br />
